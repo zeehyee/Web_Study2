@@ -14,8 +14,6 @@ body{
 	}
 .calculator form{
 	display: grid;
-	grid-template-columns: repeat(4,65px);
-	grid-auto-roms: 65px;
 	grid-gap:5px;
 	}
 .calculator form input {
